@@ -1,4 +1,4 @@
-# GitHubn Actions for DevOps
+# GitHub Actions for DevOps
 Repository to kick start GitHub Actions
 
 ## Comparing with Jenkins 
